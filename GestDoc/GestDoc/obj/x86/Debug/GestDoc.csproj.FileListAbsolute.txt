@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2010\Projects\GestDoc\GestDoc\bin\Debug\GestDoc.exe
+c:\users\dell\documents\visual studio 2010\Projects\GestDoc\GestDoc\bin\Debug\GestDoc.pdb
+c:\users\dell\documents\visual studio 2010\Projects\GestDoc\GestDoc\obj\x86\Debug\GestDoc.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\GestDoc\GestDoc\obj\x86\Debug\GestDoc.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\GestDoc\GestDoc\obj\x86\Debug\GestDoc.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\GestDoc\GestDoc\obj\x86\Debug\GestDoc.exe
+c:\users\dell\documents\visual studio 2010\Projects\GestDoc\GestDoc\obj\x86\Debug\GestDoc.pdb
+c:\users\dell\documents\visual studio 2010\Projects\GestDoc\GestDoc\obj\x86\Debug\GestDoc.DocBloque.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\GestDoc\GestDoc\obj\x86\Debug\GestDoc.csprojResolveAssemblyReference.cache
